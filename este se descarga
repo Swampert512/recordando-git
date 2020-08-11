@@ -1,0 +1,4 @@
+a=12
+b=32
+c=a+b
+print(f"c es igual a: {c}")
